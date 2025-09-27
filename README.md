@@ -29,4 +29,4 @@ It demonstrates the use of:
 ## 🖥️ Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-record-management.git
+   git clone https://github.com/Sandipan495/student-record-management.git
